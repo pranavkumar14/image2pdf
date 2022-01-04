@@ -9,4 +9,7 @@ In this project I have extracted the text from imaged book using **tesseract**.
 
 Finally I have the **book**( text is selectable).  
 
-&copy; Pranav Kumar 2022
+
+
+
+&copy;  *Pranav Kumar 2022*
