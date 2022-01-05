@@ -1,7 +1,7 @@
 # image2pdf
 
 #Image To PDF  
-In this project I have extracted the text from imaged book using **tesseract**.  
+In this project I have extracted the text from imaged book using **tesseract**. Tesseract library works well for extracting printed text.    
 * First I have a imaged PDF(PDF with no selectable text).   
 * Using *pdf2imge* I converted the PDF's pages to image(JPEG).   
 * Then using *tesseract* I scanned the image extracted the text.  
